@@ -1,4 +1,4 @@
-# Search VBA Code Editor From An External Workbook
+# Search VBA Code From An External Workbook
 
 ## Purpose
 
