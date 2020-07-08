@@ -25,7 +25,7 @@ You must have the following VBA Project references installed in the VBE Editor r
 
 ### Caveats
 
-- You only be able to search the VBA code in applications that do not have the VBA editor locked (unfortunately, there is no way to programmatically unlock the VBA editor)
+- You only be able to search the VBA code in applications that do not have the VBA editor locked (unfortunately, there is no way to programmatically unlock the VBA editor).
 - For some Excel spreadsheets, you will have to make sure that the option “Trust access to the VBA project object model” has been checked. This can be found under the Macro settings option, within Trust Center.
 
 ### Implementation
