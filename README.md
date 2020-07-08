@@ -1,6 +1,6 @@
-## Search VBA Code Editor From An External Workbook
+# Search VBA Code Editor From An External Workbook
 
-### Purpose
+## Purpose
 
 This repo is an example of a class I wrote, that can be used to search the code in a VBA project for a particular word.
 
@@ -10,7 +10,7 @@ The class can be used to form the basis of your own "Search VBA" tool.
 
 The code is useful for finding and documenting hardcoded terms particularly when there are a large number of sheets to search.
 
-### Requirements
+## Requirements
 
 You must have the following VBA Project references installed in the VBE Editor reference window (minimum versions stated):
 
@@ -23,12 +23,12 @@ You must have the following VBA Project references installed in the VBE Editor r
 - Microsoft PowerPoint 14.0 Object Library
 - Microsoft Word 14.0 Object Library
 
-### Caveats
+## Caveats
 
 - You only be able to search the VBA code in applications that do not have the VBA editor locked (unfortunately, there is no way to programmatically unlock the VBA editor).
 - For some Excel spreadsheets, you will have to make sure that the option “Trust access to the VBA project object model” has been checked. This can be found under the Macro settings option, within Trust Center.
 
-### Implementation
+## Implementation
 
 Using the classes in this repo, this is an example of how to search the VBA code in a file called 'TestMacro.xlsm' for the word 'Hello':
 
@@ -64,7 +64,7 @@ Using the classes in this repo, this is an example of how to search the VBA code
     Set oResult = Nothing
     
 
-### Further information
+## Further information
 
 https://datapluscode.com/general/programmatically-search-vba-code/
 
