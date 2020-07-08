@@ -30,7 +30,7 @@ You must have the following VBA Project references installed in the VBE Editor r
 
 ### Implementation
 
-This would be the code required to search the VBA code in a file called 'TestMacro.xlsm' for the word 'Hello':
+Using the classes in this report, this is an example of how to search the VBA code in a file called 'TestMacro.xlsm' for the word 'Hello':
 
 
     Dim oSearch     As New csSearchVBA
