@@ -2,13 +2,13 @@
 
 ### Purpose
 
-This is demonstration of a class that can search the code in a VBA Editor of project for a particular phrase.
+This repo is an example of a class I wrote, that can be used to search the code in a VBA project for a particular phrase.
 
-This VBA editor can be in any Microsoft Office Product (Excel/Access/PowerPoint/Word).
+The code can search the VBA editor of any Microsoft Office Product (Excel/Access/PowerPoint/Word).
 
-The class can be used to form the basis of your own "search VBA code" tool.
+The class can be used to form the basis of your own "Search VBA" tool.
 
-The code is useful for finding any hardcoded references when you have several projects to search.
+The code is useful for finding and documenting hardcoded terms particularly when there are a large number of sheets to search.
 
 ### Requirements
 
