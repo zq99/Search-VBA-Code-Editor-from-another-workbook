@@ -1,4 +1,4 @@
-# Search VBA Code From An External Workbook
+# VBA Code Search Class
 
 ## Purpose
 
