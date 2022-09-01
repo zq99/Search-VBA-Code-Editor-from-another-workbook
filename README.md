@@ -64,8 +64,5 @@ Using the classes in this repo, this is an example of how to search the VBA code
     Set oResult = Nothing
     
 
-## Further information
-
-https://datapluscode.com/general/programmatically-search-vba-code/
 
 
